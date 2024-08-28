@@ -1,4 +1,5 @@
 - Learn Got basics (completed)
-- Create GitHub repo
+- Create GitHub repo (completed)
 - Practice commits
+- Review Git commands
 - Explore branching
